@@ -1,0 +1,15 @@
+{
+	"name": "manidatafactory766",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a73ff17f-31d6-40a9-96a9-99167724a866",
+		"tenantId": "cef85156-c337-487f-9900-63aa3f032a6d"
+	}
+}

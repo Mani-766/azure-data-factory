@@ -1,0 +1,17 @@
+{
+	"name": "ls_onprem",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "FileServer",
+		"typeProperties": {
+			"host": "C:\\adfproject",
+			"userId": "srav957392@outlook.com",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI3ODcwYWU5NC1hNmQ3LTQzYWMtOTMxMi0yNmNmYWJlZDhhMWQiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "maniselfhosted",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}

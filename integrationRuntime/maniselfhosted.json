@@ -1,0 +1,6 @@
+{
+	"name": "maniselfhosted",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
